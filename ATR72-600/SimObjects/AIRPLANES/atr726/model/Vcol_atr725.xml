@@ -1,0 +1,84 @@
+<ModelInfo>
+	<LODS>
+		<LOD minSize="100" ModelFile="Vcol_atr725_exterior.gltf"/>
+	</LODS>
+
+	<Behaviors>
+
+		<Include ModelBehaviorFile="Asobo\Common.xml"/> <!-- ###################################### -->
+		<Include ModelBehaviorFile="Asobo\Exterior.xml"/> <!-- ###################################### -->
+
+		<Component ID="HANDLING">
+			<UseTemplate Name="ASOBO_HANDLING_Elevator_Template">
+				<USE_INTEGRATED_TRIM>True</USE_INTEGRATED_TRIM>
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Elevator_Template">
+				<TRIM_ONLY>True</TRIM_ONLY>
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Rudder_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Aileron_Template">
+				<TRIM_ONLY>True</TRIM_ONLY>
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Aileron_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Flaps_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Spoilers_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_HANDLING_Wipers_Template">
+				<CIRCUIT_ID_WIPERS>54</CIRCUIT_ID_WIPERS>
+				<CIRCUIT_ID_PARK>55</CIRCUIT_ID_PARK>
+				<PARK_SPEED>300</PARK_SPEED>
+			</UseTemplate>
+		</Component>
+
+		<Component ID="ENGINE">
+			<DefaultTemplateParameters>
+				<BLADE_COUNT>6</BLADE_COUNT>
+			</DefaultTemplateParameters>
+			<UseTemplate Name="ASOBO_ENGINE_Propeller_Template">
+				<ID>1</ID>
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_ENGINE_Propeller_Template">
+				<ID>2</ID>
+			</UseTemplate>
+		</Component>
+
+		<Component ID="GEARS">
+			<UseTemplate Name="ASOBO_GEAR_Center_Tire_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_GEAR_Left_Tire_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_GEAR_Right_Tire_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_GEAR_Center_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_GEAR_Left_Template">
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_GEAR_Right_Template">
+			</UseTemplate>
+<!--
+			<UseTemplate Name="ASOBO_GEAR_Steering_Template">
+			</UseTemplate>
+-->
+		</Component>
+
+		<Component ID="INTERACTIVE_POINTS">
+			<UseTemplate Name="ASOBO_DOOR_InteractivePoint_Template">
+				<ID>0</ID>
+				<ANIM_NAME>cargo_door</ANIM_NAME>
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_FuelHose_InteractivePoint_Template">
+				<ID>1</ID>
+				<NODE_ID>GROUND_GPUPIPE</NODE_ID>
+			</UseTemplate>
+			<UseTemplate Name="ASOBO_FuelHose_InteractivePoint_Template">
+				<ID>2</ID>
+				<NODE_ID>GROUND_FUELPIPE</NODE_ID>
+			</UseTemplate>
+		</Component>
+
+	</Behaviors>
+
+</ModelInfo>

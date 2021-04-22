@@ -1,0 +1,15 @@
+This aircraft is an adaptation from the ATR72 from Virtualcol FS Software® under permission:
+https://www.virtualcol.com
+
+FS2020 converted version initially done by Capt22
+Youtube - https://www.youtube.com/channel/UCIpk_B_881UbZnB6mX0k6mQ (Channel:MultiGamer 0822)
+Discord - https://discord.gg/BBGH53JHrd
+
+Microsoft Flight Simulator © Microsoft Corporation. The ATR72 Community Version was created under Microsoft's "Game Content Usage Rules" using assets from Microsoft Flight Simulator, and it is not endorsed by or affiliated with Microsoft.
+GitHub Repository:
+https://github.com/kychungdotcom/ATR72-600
+
+Complete adaptation done by kychungdotcom
+Go here for other FS2020 mods done by me -
+https://flightsim.to/profile/kychungdotcom/uploads
+================================================================
