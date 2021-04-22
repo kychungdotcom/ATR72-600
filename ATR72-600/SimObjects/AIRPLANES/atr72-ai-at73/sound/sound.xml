@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright (c) Asobo Studio, All rights reserved. www.asobostudio.com -->
+
+<SoundInfo Version="0.1">
+
+	<WwisePackages>
+		<MainPackage Name="Asobo_Generic_Turbo_MultiEngines"/>
+	</WwisePackages>
+
+  <EngineSoundPresets>
+    <Sound WwiseEvent="Combustion" ConeHeading="180" RPMMin="1" WwiseData="true" EngineIndex="1" />
+    <Sound WwiseEvent="Combustion" ConeHeading="180" RPMMin="1" WwiseData="true" EngineIndex="2" />
+    <Sound WwiseEvent="Propeller" ConeHeading="0" FadeOutType="2" FadeOutTime="3" RPMMin="1" WwiseData="true" EngineIndex="1" />
+    <Sound WwiseEvent="Propeller" ConeHeading="0" FadeOutType="2" FadeOutTime="5" RPMMin="1" WwiseData="true" EngineIndex="2" />
+    <Sound WwiseEvent="Starter" WwiseData="true" EngineIndex="1" />
+    <Sound WwiseEvent="Starter" WwiseData="true" EngineIndex="2" />
+    <Sound WwiseEvent="Shutdown" RPMMin="1" WwiseData="true" EngineIndex="1" />
+    <Sound WwiseEvent="Shutdown" RPMMin="1" WwiseData="true" EngineIndex="2" />
+    <Sound WwiseEvent="CombustionStart" WwiseData="true" EngineIndex="1" />
+    <Sound WwiseEvent="CombustionStart" WwiseData="true" EngineIndex="2" />
+    <Sound WwiseEvent="JetWhine" WwiseData="true" EngineIndex="1" />
+    <Sound WwiseEvent="JetWhine" WwiseData="true" EngineIndex="2" />
+  </EngineSoundPresets>
+
+</SoundInfo>
