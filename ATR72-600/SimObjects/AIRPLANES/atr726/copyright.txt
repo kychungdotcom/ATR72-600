@@ -9,7 +9,7 @@ Microsoft Flight Simulator © Microsoft Corporation. The ATR72 Community Version
 GitHub Repository:
 https://github.com/kychungdotcom/ATR72-600
 
-Complete adaptation done by kychungdotcom
+Readaptation done by kychungdotcom
 Go here for other FS2020 mods done by me -
 https://flightsim.to/profile/kychungdotcom/uploads
 ================================================================
