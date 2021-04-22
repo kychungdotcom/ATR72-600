@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "ATR72-600",
+  "manufacturer": "ATR",
+  "creator": "Virtualcol/kychungdotcom",
+  "package_version": "0.6.4",
+  "minimum_game_version": "1.15.8",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
