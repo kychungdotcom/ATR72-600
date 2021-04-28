@@ -6,519 +6,519 @@
       "date": 132622474756590488
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/ai.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/ai.cfg",
       "size": 1539,
       "date": 132624248463152700
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/aircraft.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/aircraft.cfg",
       "size": 2860,
-      "date": 132627191825673021
+      "date": 132628453460865834
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/Approach.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/Approach.flt",
       "size": 3090,
       "date": 132625867958524215
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/apron.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/apron.flt",
       "size": 3276,
       "date": 132625939694893194
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/cameras.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/cameras.cfg",
       "size": 97906,
       "date": 132622044557895492
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/Climb.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/Climb.flt",
       "size": 3188,
       "date": 132625871362531149
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/copyright.txt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/copyright.txt",
       "size": 590,
       "date": 132622890648521951
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/Cruise.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/Cruise.flt",
       "size": 3381,
       "date": 132626162641443109
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/engines.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/engines.cfg",
       "size": 15632,
       "date": 132625413875979847
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/Final.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/Final.flt",
       "size": 3321,
       "date": 132625874122594758
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/flight_model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/flight_model.cfg",
       "size": 15345,
       "date": 132626351116175642
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/hangar.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/hangar.flt",
       "size": 3115,
       "date": 132625939694723158
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/runway.FLT",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/runway.FLT",
       "size": 3252,
       "date": 132625875193720926
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/systems.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/systems.cfg",
       "size": 17214,
       "date": 132625344629278897
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/taxi.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/taxi.flt",
       "size": 3226,
       "date": 132625876231434182
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/model/model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/model/model.cfg",
       "size": 216,
       "date": 132626878520139963
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/panel/panel.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/panel/panel.cfg",
       "size": 27,
       "date": 132626878685666929
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
       "size": 15637355,
       "date": 132622044559767526
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/sound/sound.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/sound/sound.xml",
       "size": 1367,
       "date": 132622044576560488
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
       "size": 8464084,
       "date": 132425000437740549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/soundai/soundai.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/soundai/soundai.xml",
       "size": 2748,
       "date": 132425000447930549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/texture/texture.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/texture/texture.cfg",
       "size": 315,
       "date": 132626827635438134
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/texture/thumbnail.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/texture/thumbnail.jpg",
       "size": 251509,
       "date": 132603718110660795
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at72/texture/thumbnail_small.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at72/texture/thumbnail_small.jpg",
       "size": 73370,
       "date": 132603718227885821
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/ai.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/ai.cfg",
       "size": 1539,
       "date": 132624248463152700
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/aircraft.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/aircraft.cfg",
       "size": 2860,
-      "date": 132627191927678195
+      "date": 132628453548948265
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/Approach.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/Approach.flt",
       "size": 3090,
       "date": 132625867958524215
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/apron.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/apron.flt",
       "size": 3276,
       "date": 132625939694893194
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/cameras.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/cameras.cfg",
       "size": 97906,
       "date": 132622044557895492
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/Climb.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/Climb.flt",
       "size": 3188,
       "date": 132625871362531149
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/copyright.txt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/copyright.txt",
       "size": 590,
       "date": 132622890648521951
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/Cruise.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/Cruise.flt",
       "size": 3381,
       "date": 132626162641443109
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/engines.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/engines.cfg",
       "size": 15632,
       "date": 132625413875979847
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/Final.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/Final.flt",
       "size": 3321,
       "date": 132625874122594758
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/flight_model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/flight_model.cfg",
       "size": 15345,
       "date": 132626351116175642
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/hangar.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/hangar.flt",
       "size": 3115,
       "date": 132625939694723158
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/runway.FLT",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/runway.FLT",
       "size": 3252,
       "date": 132625875193720926
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/systems.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/systems.cfg",
       "size": 17214,
       "date": 132625344629278897
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/taxi.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/taxi.flt",
       "size": 3226,
       "date": 132625876231434182
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/model/model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/model/model.cfg",
       "size": 216,
       "date": 132626878520139963
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/panel/panel.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/panel/panel.cfg",
       "size": 27,
       "date": 132626878685666929
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
       "size": 15637355,
       "date": 132622044559767526
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/sound/sound.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/sound/sound.xml",
       "size": 1367,
       "date": 132622044576560488
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
       "size": 8464084,
       "date": 132425000437740549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/soundai/soundai.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/soundai/soundai.xml",
       "size": 2748,
       "date": 132425000447930549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/texture/texture.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/texture/texture.cfg",
       "size": 315,
       "date": 132626827774307706
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/texture/thumbnail.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/texture/thumbnail.jpg",
       "size": 251509,
       "date": 132603718110660795
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at73/texture/thumbnail_small.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at73/texture/thumbnail_small.jpg",
       "size": 73370,
       "date": 132603718227885821
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/ai.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/ai.cfg",
       "size": 1539,
       "date": 132624248463152700
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/aircraft.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/aircraft.cfg",
       "size": 2860,
-      "date": 132627192120230339
+      "date": 132628453702305135
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/Approach.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/Approach.flt",
       "size": 3090,
       "date": 132625867958524215
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/apron.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/apron.flt",
       "size": 3276,
       "date": 132625939694893194
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/cameras.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/cameras.cfg",
       "size": 97906,
       "date": 132622044557895492
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/Climb.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/Climb.flt",
       "size": 3188,
       "date": 132625871362531149
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/copyright.txt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/copyright.txt",
       "size": 590,
       "date": 132622890648521951
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/Cruise.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/Cruise.flt",
       "size": 3381,
       "date": 132626162641443109
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/engines.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/engines.cfg",
       "size": 15632,
       "date": 132625413875979847
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/Final.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/Final.flt",
       "size": 3321,
       "date": 132625874122594758
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/flight_model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/flight_model.cfg",
       "size": 15345,
       "date": 132626351116175642
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/hangar.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/hangar.flt",
       "size": 3115,
       "date": 132625939694723158
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/runway.FLT",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/runway.FLT",
       "size": 3252,
       "date": 132625875193720926
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/systems.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/systems.cfg",
       "size": 17214,
       "date": 132625344629278897
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/taxi.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/taxi.flt",
       "size": 3226,
       "date": 132625876231434182
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/model/model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/model/model.cfg",
       "size": 216,
       "date": 132626878520139963
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/panel/panel.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/panel/panel.cfg",
       "size": 27,
       "date": 132626878685666929
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
       "size": 15637355,
       "date": 132622044559767526
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/sound/sound.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/sound/sound.xml",
       "size": 1367,
       "date": 132622044576560488
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
       "size": 8464084,
       "date": 132425000437740549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/soundai/soundai.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/soundai/soundai.xml",
       "size": 2748,
       "date": 132425000447930549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/texture/texture.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/texture/texture.cfg",
       "size": 315,
       "date": 132626827851972726
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/texture/thumbnail.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/texture/thumbnail.jpg",
       "size": 251509,
       "date": 132603718110660795
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at75/texture/thumbnail_small.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at75/texture/thumbnail_small.jpg",
       "size": 73370,
       "date": 132603718227885821
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/ai.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/ai.cfg",
       "size": 1539,
       "date": 132624248463152700
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/aircraft.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/aircraft.cfg",
       "size": 2860,
-      "date": 132627192869741691
+      "date": 132628453831827342
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/Approach.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/Approach.flt",
       "size": 3090,
       "date": 132625867958524215
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/apron.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/apron.flt",
       "size": 3276,
       "date": 132625939694893194
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/cameras.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/cameras.cfg",
       "size": 97906,
       "date": 132622044557895492
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/Climb.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/Climb.flt",
       "size": 3188,
       "date": 132625871362531149
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/copyright.txt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/copyright.txt",
       "size": 590,
       "date": 132622890648521951
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/Cruise.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/Cruise.flt",
       "size": 3381,
       "date": 132626162641443109
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/engines.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/engines.cfg",
       "size": 15632,
       "date": 132625413875979847
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/Final.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/Final.flt",
       "size": 3321,
       "date": 132625874122594758
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/flight_model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/flight_model.cfg",
       "size": 15345,
       "date": 132626351116175642
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/hangar.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/hangar.flt",
       "size": 3115,
       "date": 132625939694723158
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/runway.FLT",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/runway.FLT",
       "size": 3252,
       "date": 132625875193720926
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/systems.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/systems.cfg",
       "size": 17214,
       "date": 132625344629278897
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/taxi.flt",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/taxi.flt",
       "size": 3226,
       "date": 132625876231434182
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/model/model.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/model/model.cfg",
       "size": 216,
       "date": 132626878520139963
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/panel/panel.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/panel/panel.cfg",
       "size": 27,
       "date": 132626878685666929
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/sound/Asobo_Generic_Turbo_MultiEngines.PC.PCK",
       "size": 15637355,
       "date": 132622044559767526
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/sound/sound.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/sound/sound.xml",
       "size": 1367,
       "date": 132622044576560488
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/soundai/Asobo_Generic_Turbo_MultiEngines_AI.PC.PCK",
       "size": 8464084,
       "date": 132425000437740549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/soundai/soundai.xml",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/soundai/soundai.xml",
       "size": 2748,
       "date": 132425000447930549
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/texture/texture.cfg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/texture/texture.cfg",
       "size": 315,
       "date": 132626827970862746
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/texture/thumbnail.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/texture/thumbnail.jpg",
       "size": 251509,
       "date": 132603718110660795
     },
     {
-      "path": "SimObjects/AIRPLANES/atr-generic-at76/texture/thumbnail_small.jpg",
+      "path": "SimObjects/AIRPLANES/atr72-ai-at76/texture/thumbnail_small.jpg",
       "size": 73370,
       "date": 132603718227885821
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/ai.cfg",
       "size": 1539,
-      "date": 132624248463152700
+      "date": 132628590985899727
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/aircraft.cfg",
-      "size": 2976,
-      "date": 132627194818880479
+      "size": 3149,
+      "date": 132628590987266879
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/Approach.flt",
-      "size": 3090,
-      "date": 132625867958524215
+      "size": 3071,
+      "date": 132631185020649524
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/apron.flt",
       "size": 3276,
-      "date": 132625939694893194
+      "date": 132631185087220904
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/cameras.cfg",
-      "size": 6288,
-      "date": 132624260263054676
+      "size": 7864,
+      "date": 132631144108472669
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/Climb.flt",
-      "size": 3188,
-      "date": 132625871362531149
+      "size": 3169,
+      "date": 132631185056741052
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/cockpit.cfg",
-      "size": 4526,
-      "date": 132625854639953487
+      "size": 5095,
+      "date": 132628590985580056
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/copyright.txt",
@@ -527,33 +527,33 @@
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/Cruise.flt",
-      "size": 3381,
-      "date": 132626162641443109
+      "size": 3362,
+      "date": 132631185115451364
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/engines.cfg",
-      "size": 15632,
-      "date": 132625413875979847
+      "size": 12602,
+      "date": 132628590970830148
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/Final.flt",
-      "size": 3321,
-      "date": 132625874122594758
+      "size": 3300,
+      "date": 132631185151067578
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/flight_model.cfg",
-      "size": 15332,
-      "date": 132627136033296970
+      "size": 15151,
+      "date": 132631131382220231
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/gameplay.cfg",
       "size": 1518,
-      "date": 132624248462812781
+      "date": 132628590985610062
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/hangar.flt",
-      "size": 3115,
-      "date": 132625939694723158
+      "size": 3096,
+      "date": 132631185236403328
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/Notice.txt",
@@ -562,18 +562,18 @@
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/runway.FLT",
-      "size": 3252,
-      "date": 132625875193720926
+      "size": 3233,
+      "date": 132631185205165663
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/systems.cfg",
-      "size": 17214,
-      "date": 132625344629278897
+      "size": 18777,
+      "date": 132628590983593010
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/taxi.flt",
-      "size": 3226,
-      "date": 132625876231434182
+      "size": 3207,
+      "date": 132631185177899804
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/Checklist/KingAir350_Checklist.xml",
@@ -593,12 +593,12 @@
     {
       "path": "SimObjects/AIRPLANES/atr726/model/KINGAIR_350I_interior_LOD0.bin",
       "size": 21402228,
-      "date": 132627234901112236
+      "date": 132631134775676873
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/model/KINGAIR_350I_interior_LOD0.gltf",
       "size": 831669,
-      "date": 132627234901201494
+      "date": 132631134775786986
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/model/model.CFG",
@@ -613,12 +613,12 @@
     {
       "path": "SimObjects/AIRPLANES/atr726/model/Vcol_atr725_exterior.bin",
       "size": 5085074,
-      "date": 132627234898911098
+      "date": 132631134768480967
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/model/Vcol_atr725_exterior.gltf",
-      "size": 124070,
-      "date": 132627234898941012
+      "size": 124063,
+      "date": 132631134768510978
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/panel/PANEL.CFG",
@@ -668,107 +668,107 @@
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRMISC1_T.PNG.DDS",
       "size": 699192,
-      "date": 132627234884000199
+      "date": 132631134753067476
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRMISC1_T.PNG.DDS.json",
       "size": 102,
-      "date": 132627234883990196
+      "date": 132631134753047465
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRMISC2_T.PNG.DDS",
       "size": 699192,
-      "date": 132627234880911386
+      "date": 132631134749846744
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRMISC2_T.PNG.DDS.json",
       "size": 102,
-      "date": 132627234880891377
+      "date": 132631134749826736
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRMISC3_T.PNG.DDS",
       "size": 699192,
-      "date": 132627234882461736
+      "date": 132631134751407096
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRMISC3_T.PNG.DDS.json",
       "size": 102,
-      "date": 132627234882441731
+      "date": 132631134751387100
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRPROP_BLUR.PNG.DDS",
       "size": 349680,
-      "date": 132627234874536226
+      "date": 132631134743295258
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRPROP_BLUR.PNG.DDS.json",
       "size": 119,
-      "date": 132627234874526225
+      "date": 132631134743285254
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRWINDS.PNG.DDS",
       "size": 87536,
-      "date": 132627234867271902
+      "date": 132631134735983600
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATRWINDS.PNG.DDS.json",
       "size": 119,
-      "date": 132627234867261902
+      "date": 132631134735973599
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_ENG_T.PNG.DDS",
       "size": 5592560,
-      "date": 132627234893435024
+      "date": 132631134762579625
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_ENG_T.PNG.DDS.json",
       "size": 119,
-      "date": 132627234893385016
+      "date": 132631134762529615
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_FUSETAIL_T.PNG.DDS",
       "size": 2796344,
-      "date": 132627234888753423
+      "date": 132631134757778586
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_FUSETAIL_T.PNG.DDS.json",
       "size": 102,
-      "date": 132627234888733415
+      "date": 132631134757758544
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_FUSE_T.PNG.DDS",
       "size": 2796344,
-      "date": 132627234879321454
+      "date": 132631134748336399
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_FUSE_T.PNG.DDS.json",
       "size": 102,
-      "date": 132627234879291017
+      "date": 132631134748316398
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_MISC_T.PNG.DDS",
       "size": 1398256,
-      "date": 132627234873996104
+      "date": 132631134742715126
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_MISC_T.PNG.DDS.json",
       "size": 119,
-      "date": 132627234873976098
+      "date": 132631134742695122
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_WINGS_T.PNG.DDS",
       "size": 2796344,
-      "date": 132627234872391571
+      "date": 132631134741094759
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/TEXTURE/VCATR_WINGS_T.PNG.DDS.json",
       "size": 102,
-      "date": 132627234872351562
+      "date": 132631134741064749
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/texture.generic/texture.cfg",
-      "size": 274,
-      "date": 132627182291330768
+      "size": 284,
+      "date": 132625990281168243
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/texture.generic/thumbnail.jpg",
@@ -786,9 +786,19 @@
       "date": 132627180891602209
     },
     {
+      "path": "SimObjects/AIRPLANES/atr726/texture.generic/VCATR_ENG_T.PNG.DDS.json",
+      "size": 119,
+      "date": 132631134762529615
+    },
+    {
       "path": "SimObjects/AIRPLANES/atr726/texture.generic/vcatr_fusetail_t.png.dds",
       "size": 5592580,
       "date": 132627181462559615
+    },
+    {
+      "path": "SimObjects/AIRPLANES/atr726/texture.generic/VCATR_FUSETAIL_T.PNG.DDS.json",
+      "size": 102,
+      "date": 132631134757758544
     },
     {
       "path": "SimObjects/AIRPLANES/atr726/texture.generic/vcatr_fuse_t.png.dds",
@@ -796,9 +806,19 @@
       "date": 132627181283333979
     },
     {
+      "path": "SimObjects/AIRPLANES/atr726/texture.generic/VCATR_FUSE_T.PNG.DDS.json",
+      "size": 102,
+      "date": 132631134748316398
+    },
+    {
       "path": "SimObjects/AIRPLANES/atr726/texture.generic/vcatr_wings_t.png.dds",
       "size": 5592580,
       "date": 132627181658833793
+    },
+    {
+      "path": "SimObjects/AIRPLANES/atr726/texture.generic/VCATR_WINGS_T.PNG.DDS.json",
+      "size": 102,
+      "date": 132631134741064749
     }
   ]
 }
